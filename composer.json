@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/codebench",
+	"name":        "lestor/codebench",
 	"type":        "kohana-module",
 	"description": "The official Kohana benchmarking module",
 	"homepage":    "http://kohanaframework.org",
